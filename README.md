@@ -1,4 +1,4 @@
 # Demo_project
-My first git repository.
+My first Git Repository.
 <br>
 Author-S.Ashlesh Pai
